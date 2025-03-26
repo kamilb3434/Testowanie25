@@ -1,0 +1,16 @@
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.Form1.resources
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.csproj.GenerateResource.cache
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.AssemblyInfoInputs.cache
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.AssemblyInfo.cs
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.csproj.CoreCompileInputs.cache
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\bin\Debug\net7.0-windows\DodanieUzytkownika.exe
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\bin\Debug\net7.0-windows\DodanieUzytkownika.deps.json
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\bin\Debug\net7.0-windows\DodanieUzytkownika.runtimeconfig.json
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\bin\Debug\net7.0-windows\DodanieUzytkownika.dll
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\bin\Debug\net7.0-windows\DodanieUzytkownika.pdb
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.dll
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\refint\DodanieUzytkownika.dll
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.pdb
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\DodanieUzytkownika.genruntimeconfig.cache
+C:\Users\Maksymilian Leśniak\Desktop\Projekt\DodanieUzytkownika\DodanieUzytkownika\obj\Debug\net7.0-windows\ref\DodanieUzytkownika.dll
