@@ -17,7 +17,7 @@ Kraj_pochodzenia VARCHAR(200));
 CREATE TABLE Plec(
 ID_plec INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
 Rodzaj VARCHAR(1) NOT NULL);
---(M mê¿czyzna, K kobieta)
+--(M mÃªÂ¿czyzna, K kobieta)
 
 
 CREATE TABLE Rola(
@@ -66,13 +66,13 @@ nazwisko VARCHAR(200) NOT NULL,
 FK_ID_plec INT NOT NULL FOREIGN KEY REFERENCES Plec(Id_plec),
 Data_urodzenia DATE NOT NULL,
 PESEL VARCHAR(11) UNIQUE NOT NULL,
-Numer_telefonu VARCHAR(9) UNIQUE NOT NULL,
+Numer_telefonu VARCHAR(9) NOT NULL,
 Login_uzytkownika VARCHAR(100) UNIQUE NOT NULL,
 Haslo VARCHAR(100) NOT NULL,
 email VARCHAR(255) NOT NULL UNIQUE CHECK (email LIKE '%_@_%._%'),
 FK_ID_rola INT NOT NULL FOREIGN KEY REFERENCES Rola(ID_Rola),
 FK_ID_adres INT NOT NULL FOREIGN KEY REFERENCES Adres(ID_Adres),
-Czy_zapomniany BIT NOT NULL DEFAULT 0 -- Domyœlnie uzytkownik jest nieaktywny (0).
+Czy_zapomniany BIT NOT NULL DEFAULT 0 -- DomyÅ“lnie uzytkownik jest nieaktywny (0).
 );
 
 CREATE TABLE Wypozyczenie(
