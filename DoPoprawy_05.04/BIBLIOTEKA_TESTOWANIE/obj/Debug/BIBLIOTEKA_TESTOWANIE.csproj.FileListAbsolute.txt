@@ -1,0 +1,96 @@
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form1.resources
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\naruk\Downloads\Testowanie25-main (1)\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form1.resources
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\Golos\Desktop\Testowanie25-main\Testowanie25-main\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.ZapominanieUżytkownika.resources
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form1.resources
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.ZapominanieUżytkownika.resources
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form2.resources
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form3.resources
+E:\Users\Admin\Documents\GitHub\Testowanie25\ProjektNa01.04.2025\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form4.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form1.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form2.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form3.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form4.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.ZapominanieUżytkownika.resources
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\u118-9\Downloads\Testowanie25-main\Nowy folder\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form1.resources
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form2.resources
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form3.resources
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Form4.resources
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.ZapominanieUżytkownika.resources
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\naruk\Downloads\Poprawione_02.04\Poprawione_02.04\BIBLIOTEKA_TESTOWANIE\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.FormSzczegoly.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.FormStart.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.FormDodaj.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.FormPodglad.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.FormZapomnieni.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.ZapominanieUżytkownika.resources
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\naruk\OneDrive\Pulpit\Final_02.04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.FormPodgladSzczegoly.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.AssemblyReference.cache
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.Properties.Resources.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.ZapominanieUżytkownika.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.GenerateResource.cache
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe.config
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.exe
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\bin\Debug\BIBLIOTEKA_TESTOWANIE.pdb
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\bin\Debug\Guna.UI2.dll
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTE.D18FADC6.Up2Date
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.AdminFormPanelGlowny.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.AdminFormDodajUzytkownika.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.AdminFormAktywniUzytkownicy.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.AdminFormPodgladDanych.resources
+C:\Users\Patrycja\OneDrive\Pulpit\BIBLIOTEKA_FRONT_03.04\Poprawione(brzydkie) 03_04\BIBLIOTEKA_TESTOWANIE\obj\Debug\BIBLIOTEKA_TESTOWANIE.AdminFormZapomnieniUzytkownicy.resources
