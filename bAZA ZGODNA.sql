@@ -52,16 +52,6 @@ INSERT INTO Rola (Nazwa_roli) VALUES
 ('Bibliotekarz'),
 ('Menager Biblioteki');
 
-CREATE TABLE Uprawnienie(
-  ID_Uprawnienie INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-  OPIS TEXT NOT NULL;
-
-
-CREATE TABLE Uprawnienia_uzytkownik(
-ID_Uprawnienia_uzytkownik INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-ID_Uzytkownik INT NOT NULL FOREIGN KEY REFERENCES Uzytkownik(ID_Uzytkownik),
-ID_Uprawnienie INT NOT NULL FOREIGN KEY REFERENCES Uprawnienie(ID_Uprawnienie);
-
 
 CREATE TABLE Adres(
 ID_adres INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
