@@ -23,6 +23,14 @@ INSERT INTO Status_ksiazki(Info_status) VALUES
 ('Dostępna'),
 ('Niedostępna');
 
+CREATE TABLE Plec(
+  ID_plec INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+  nazwa NVARCHAR(1) NOT NULL,
+
+  INSERT INTO PLEC(nazwa) VALUES
+  ('K'),
+  ('M');
+
 CREATE TABLE Autor(
 ID_autor INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
 Imie_autor VARCHAR(50) NOT NULL,
@@ -43,6 +51,16 @@ INSERT INTO Rola (Nazwa_roli) VALUES
 ('Gość'),
 ('Bibliotekarz'),
 ('Menager Biblioteki');
+
+CREATE TABLE Uprawnienie(
+  ID_Uprawnienie INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+  OPIS TEXT NOT NULL;
+
+
+CREATE TABLE Uprawnienia_uzytkownik(
+ID_Uprawnienia_uzytkownik INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+ID_Uzytkownik INT NOT NULL FOREIGN KEY REFERENCES Uzytkownik(ID_Uzytkownik),
+ID_Uprawnienie INT NOT NULL FOREIGN KEY REFERENCES Uprawnienie(ID_Uprawnienie);
 
 
 CREATE TABLE Adres(
@@ -91,7 +109,7 @@ CREATE TABLE Uzytkownik(
 ID_uzytkownik INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
 Imie VARCHAR(100) NOT NULL,
 Nazwisko VARCHAR(200) NOT NULL,
-Plec INT Not NULL,
+Plec INT Not NULL FOREIGN KEY REFERENCES Plec(ID_Plec),
 Data_urodzenia DATE NOT NULL,
 PESEL VARCHAR(11) UNIQUE NOT NULL,
 Numer_telefonu VARCHAR(9) NOT NULL,
