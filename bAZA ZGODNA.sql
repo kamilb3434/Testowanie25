@@ -43,14 +43,19 @@ INSERT INTO Autor(Imie_autor, Nazwisko_autor, Kraj_pochodzenia) VALUES
 
 CREATE TABLE Rola(
 ID_rola INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-Nazwa_roli VARCHAR(100) NOT NULL);
+Nazwa_roli VARCHAR(100) NOT NULL),
+Opis TEXT NOT NULL;
 
 INSERT INTO Rola (Nazwa_roli) VALUES
-('Admin'),
-('Użytkownik'),
-('Gość'),
-('Bibliotekarz'),
-('Menager Biblioteki');
+('Admin', '-Przegląd listy uprawnień, -Dodawanie nowych użytkowników, -Edycja danych użytkownika, -Zapomnienie użytkownika, -Wyświetlanie listy użytkowników,
+  -Wyszukiwanie użytkoników, -Podgląd danych użytkownika, -Przegląd dostępnych uprawnień, -Nadawanie uprawnień, -Przegląd użytkowników o danym uprawnieniu,
+  -Zmiana hasła użytkownikowi, -Automatyczne generowanie hasła, -Logowanie do systemu, -Wylogowanie z systemu'),
+('Użytkownik', '-Logowanie do systemu, -Odzyskiwanie hasła, -Ustawienie nowego hasła'),
+('Gość','-Brak uprawnień( na ten moment)'),
+('Bibliotekarz','-Rejestrowanie nowych książek, -Przeglądanie listy książek, -Podgląd informacji o książce, -Rejestrowanie wypożyczenia ksiązki, -Przedłużenie wypożyczenia ksiązki,
+  -Rejestrowanie zwrotu ksiązki, -Logowanie do systemu, -Wylogowanie do systemu'),
+('Menager Biblioteki', 'Przegląd listy rejestracji ksiązek, -Przeglądanie listy dostępnych książek, -Przeglądanie listy wypożyczeń, -Logowanie do systemu, - Wylogowanie z systemu'),
+('Brak uprawnień','Kompletny brak uprawnień');
 
 
 CREATE TABLE Adres(
