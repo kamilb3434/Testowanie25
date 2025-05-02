@@ -1,4 +1,4 @@
-﻿USE [TEST1]
+USE [TEST1]
 
 CREATE TABLE Wydawnictwo(
 ID_wydawnictwo INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
@@ -25,9 +25,9 @@ INSERT INTO Status_ksiazki(Info_status) VALUES
 
 CREATE TABLE Plec(
   ID_plec INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-  nazwa NVARCHAR(1) NOT NULL,
+  Nazwa NVARCHAR(1) NOT NULL) ;
 
-  INSERT INTO PLEC(nazwa) VALUES
+  INSERT INTO PLEC(Nazwa) VALUES
   ('K'),
   ('M');
 
@@ -43,20 +43,25 @@ INSERT INTO Autor(Imie_autor, Nazwisko_autor, Kraj_pochodzenia) VALUES
 
 CREATE TABLE Rola(
 ID_rola INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-Nazwa_roli VARCHAR(100) NOT NULL),
-Opis TEXT NOT NULL;
+Nazwa_roli VARCHAR(100) NOT NULL,
+Opis TEXT NOT NULL);
 
-INSERT INTO Rola (Nazwa_roli) VALUES
+INSERT INTO Rola (Nazwa_roli, Opis) VALUES
 ('Admin', '-Przegląd listy uprawnień, -Dodawanie nowych użytkowników, -Edycja danych użytkownika, -Zapomnienie użytkownika, -Wyświetlanie listy użytkowników,
   -Wyszukiwanie użytkoników, -Podgląd danych użytkownika, -Przegląd dostępnych uprawnień, -Nadawanie uprawnień, -Przegląd użytkowników o danym uprawnieniu,
   -Zmiana hasła użytkownikowi, -Automatyczne generowanie hasła, -Logowanie do systemu, -Wylogowanie z systemu'),
+
 ('Użytkownik', '-Logowanie do systemu, -Odzyskiwanie hasła, -Ustawienie nowego hasła'),
 ('Gość','-Brak uprawnień( na ten moment)'),
+
 ('Bibliotekarz','-Rejestrowanie nowych książek, -Przeglądanie listy książek, -Podgląd informacji o książce, -Rejestrowanie wypożyczenia ksiązki, -Przedłużenie wypożyczenia ksiązki,
   -Rejestrowanie zwrotu ksiązki, -Logowanie do systemu, -Wylogowanie do systemu'),
+
 ('Menager Biblioteki', 'Przegląd listy rejestracji ksiązek, -Przeglądanie listy dostępnych książek, -Przeglądanie listy wypożyczeń, -Logowanie do systemu, - Wylogowanie z systemu'),
+
 ('Brak uprawnień','Kompletny brak uprawnień');
 
+SELECT * from Rola
 
 CREATE TABLE Adres(
 ID_adres INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
@@ -133,3 +138,7 @@ ID_zapominany INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
 FK_ID_uzytkownik INT NOT NULL FOREIGN KEY REFERENCES Uzytkownik(ID_Uzytkownik),
 Data_zapomnienia DATETIME NOT NULL DEFAULT GETDATE(),
 Zglaszacz INT NOT NULL FOREIGN KEY REFERENCES Uzytkownik(ID_Uzytkownik));
+
+
+
+
